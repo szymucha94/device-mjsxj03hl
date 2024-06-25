@@ -5,6 +5,11 @@
 
 Attention! Any changes you make will void your warranty for this device! The author is not responsible for any damage resulting from any actions of the user!
 
+## 2024.06.25
+
+**Attention, new revisions of MJSXJ03HL appear to have Secure Boot enabled. This means correct, error-less flashing with OpenIPC will result in unbootable device.**
+**Recovery by flashing stock FW (saved as instruction says, right?) is available via USB - Ingenic USB Cloner Tool**
+
 ### 2023.08.16
 
 **Attention, in some 03HL revisions there is a problem with SD card access in the bootloader - no power supply.**
